@@ -32,5 +32,6 @@
 | **状态管理** | Redux Toolkit | Zustand | Vue Pinia                                |
 | **构建工具** | Vite | Turbopack | Webpack 5                                |
 | **测试**     | Jest | Cypress | React Testing Library                    |
-
+---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lumivoider&show_icons=true&theme=radical)
 ---
