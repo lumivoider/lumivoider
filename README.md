@@ -25,13 +25,11 @@
 </p>
 
 **核心工具**  
-| 领域         | 技术选型                                                                 |
-|--------------|--------------------------------------------------------------------------|
-| **框架**     | React / Vue / Next.js / Astro /Nuxt.Js                               |
-| **样式**     | Tailwind CSS | CSS Modules | Styled-system                            |
-| **状态管理** | Redux Toolkit | Zustand | Vue Pinia                                |
-| **构建工具** | Vite | Turbopack | Webpack 5                                |
-| **测试**     | Jest | Cypress | React Testing Library                    |
----
+
+<div style="align:center">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lumivoider&show_icons=true&theme=radical)
 ---
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/lumivoider/github-readme-stats)
+
+</div>
