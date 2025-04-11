@@ -1,4 +1,4 @@
-# Lumivoider 🌟
+# Hi I'm Lumivoider 🌟
 
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Lumivoider/Lumivoider/blob/main/LICENSE)
 [![SSG: Next.js](https://img.shields.io/badge/SSG-Next.js-000000?logo=next.js)](https://nextjs.org/)
@@ -27,24 +27,10 @@
 **核心工具**  
 | 领域         | 技术选型                                                                 |
 |--------------|--------------------------------------------------------------------------|
-| **框架**     | React 18+ / Vue 3 / Next.js 14 / Astro                                   |
+| **框架**     | React / Vue / Next.js / Astro /Nuxt.Js                               |
 | **样式**     | Tailwind CSS | CSS Modules | Styled-system                            |
 | **状态管理** | Redux Toolkit | Zustand | Vue Pinia                                |
 | **构建工具** | Vite | Turbopack | Webpack 5                                |
 | **测试**     | Jest | Cypress | React Testing Library                    |
 
 ---
-
-## 🚀 快速入门
-
-### 本地开发
-```bash
-# 克隆项目
-git clone https://github.com/Lumivoider/project-template.git
-cd project-template
-
-# 安装依赖
-pnpm install
-
-# 启动开发服务器
-pnpm dev
