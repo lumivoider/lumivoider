@@ -1,9 +1,11 @@
 # Hi I'm Lumivoider 🌟
-
+<div align="center">
+  
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Lumivoider/Lumivoider/blob/main/LICENSE)
 [![SSG: Next.js](https://img.shields.io/badge/SSG-Next.js-000000?logo=next.js)](https://nextjs.org/)
 [![Frontend Stack](https://img.shields.io/badge/Stack-React%20|%20Vue%20|%20TypeScript-61DAFB?logo=react)](https://react.dev/)
 
+</div>
 👋 欢迎来到我的技术宇宙！这里聚焦现代前端开发与静态站点生成（SSG），探索高性能、可维护的Web解决方案。
 
 ---
@@ -26,7 +28,7 @@
 
 **核心工具**  
 
-<div style="align:center">
+<div align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lumivoider&show_icons=true&theme=radical)
 ---
